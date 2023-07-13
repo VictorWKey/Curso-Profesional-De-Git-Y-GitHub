@@ -51,3 +51,8 @@ body
     width: 20px;
     vertical-align: middle;
 }
+
+.footer{
+    background-color: #33A;
+    color: #DDD;
+}
